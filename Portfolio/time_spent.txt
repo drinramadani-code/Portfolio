@@ -1,8 +1,0 @@
-Day 1 Monday    -> 22:10 - 00:00 				 (1hour 50minutes)  - Looked all over the internet to find the technology i want to use for my website and the layout I wanted
-Day 2 Tuesday   -> 13:30 - 23:30 				 (10hours)	    - Made the layout in a photoshop file, made the header, made it responsive and started working on the project section
-Day 3 Wednesday -> 21:30 - 00:05 				 (2hours 25minutes) - Started adding the projects to my projects section and the essential information
-Day 4 Thursday  -> 20:50 - 00:05 				 (3hours 10minutes) - Decided to change the theme of my website from black & white to more colourfull one and also changed the layout of the projects.
-Day 5 Friday -> 14:55 - 21:00(+2h 35min) 			 (8hours 40minutes) - Finished the project section and added Back End Function to that same section, also fixed some bugs on some of my other projects so they look nice when viewed.
-Day 6 Saturday -> 10:10 - 01:05 (Power outage)			 (10hours 55minutes)- Finished the responsivity of the webpage and finished the about section.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-								 (37hours 0minutes)
